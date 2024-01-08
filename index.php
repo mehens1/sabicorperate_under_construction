@@ -7,7 +7,7 @@
 
   <title>SABI CORPORATE LIMTED</title>
   <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="SABI CORPORATE LIMTED, CAC, CAC Registration, Business Registration, Company Registration, Annual Returns, NGO Registration, Shares, Company Shares" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -48,7 +48,7 @@
     <div class="hero-container">
       <h1>SABI CORPERATE</h1>
       <h2>We're working hard to complete the build of our website and we'll ready to launch after</h2>
-      <div class="countdown" data-count="2024/1/8" data-template="%d days %h:%m:%s"></div>
+      <div class="countdown" data-count="2024/1/15" data-template="%d days %h:%m:%s"></div>
 
       <form action="forms/notify.php" method="post" role="form" class="php-email-form">
         <div class="row no-gutters">
